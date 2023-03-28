@@ -17,7 +17,7 @@ div {
   width: 80%;
 }
 
-#titulo {
+#title {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -26,6 +26,8 @@ div {
 #img-cat {
   border-radius: 20%;
   transform: rotate(5deg);
+  width: 250px;
+  height: 180px;
 }
 
 .cat {
@@ -63,8 +65,3 @@ body {
   text-align: center;
 }
 
-img {
-  width: 250px;
-
-  height: 180px;
-}
